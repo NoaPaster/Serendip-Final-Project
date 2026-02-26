@@ -1,5 +1,4 @@
-**Serendip – Mobile Apps Final Project
-**
+**Serendip – Mobile Apps Final Project**
 
 Serendip is an Android application developed as part of the Mobile Apps Development course.
 The project demonstrates implementation of core Android components including RecyclerView, Activity navigation, and Intent-based data passing.
@@ -18,7 +17,7 @@ Clean Model–Repository–Adapter structure
 
 Git version control integration
 
-Technologies Used
+**Technologies Used**
 
 Java
 
@@ -30,6 +29,6 @@ ConstraintLayout
 
 Git & GitHub
 
-**Project Purpose
-**
+**Project Purpose**
+
 The goal of this project was to apply Android development principles in a practical scenario, focusing on clean architecture, UI design, and activity communication.
